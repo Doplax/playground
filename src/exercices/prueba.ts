@@ -1,3 +1,3 @@
-console.log("soy una prueba!");
+let algo = "soy algo y a la vez no"
+console.log(algo);
 
-console.log('code sandbox')
