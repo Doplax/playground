@@ -1,2 +1,2 @@
-import "./exercices/prueba";
+import "./book_1";
 
